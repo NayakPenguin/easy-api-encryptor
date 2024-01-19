@@ -133,3 +133,4 @@ dist
 ./package/public_algorithms/decryption_algorithms/output
 ./package/public_algorithms/encryption_algorithms/output
 
+.vscode
