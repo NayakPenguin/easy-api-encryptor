@@ -128,3 +128,8 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# Ignore output directories
+./package/public_algorithms/decryption_algorithms/output
+./package/public_algorithms/encryption_algorithms/output
+

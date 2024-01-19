@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/atanunayak/Desktop/easy-api-encryptor/package/public_algorithms/decryption_algorithms",
+      "program": "/Users/atanunayak/Desktop/easy-api-encryptor/package/public_algorithms/decryption_algorithms/build/Debug/outDebug"
+    }
+  ]
+}
