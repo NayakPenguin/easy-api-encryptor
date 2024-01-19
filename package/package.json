@@ -1,6 +1,6 @@
 {
   "name": "easy-api-encryptor",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "\"easy-api-encryptor\" is a lightweight NPM package facilitating seamless encryption and decryption of data between Node.js and React.js. Ensure secure communication in your applications with minimal setup, making it easy to protect sensitive information during transit.",
   "main": "index.js",
   "scripts": {
