@@ -9,9 +9,9 @@
 
 ## Usage Demo 🎯
 
-<img height="300" alt="Screenshot 2024-01-19 at 10 19 23 PM" src="https://github.com/NayakPenguin/easy-api-encryptor/assets/93304796/67bb7633-5b29-4b9f-9265-4e5559460f7e">
+<img height="250" width="400" alt="Screenshot 2024-01-19 at 10 19 23 PM" src="https://github.com/NayakPenguin/easy-api-encryptor/assets/93304796/67bb7633-5b29-4b9f-9265-4e5559460f7e">
 
-<img height="300" alt="Screenshot 2024-01-19 at 10 19 23 PM" src="https://github.com/NayakPenguin/easy-api-encryptor/assets/93304796/c06d9fcf-6532-4846-8cae-569101ab70c2">
+<img height="250" width="400" alt="Screenshot 2024-01-19 at 10 19 23 PM" src="https://github.com/NayakPenguin/easy-api-encryptor/assets/93304796/c06d9fcf-6532-4846-8cae-569101ab70c2">
 
 <br/>
 
