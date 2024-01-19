@@ -1,0 +1,22 @@
+{
+  "name": "easy-api-encryptor",
+  "version": "1.0.0",
+  "description": "\"easy-api-encryptor\" is a lightweight NPM package facilitating seamless encryption and decryption of data between Node.js and React.js. Ensure secure communication in your applications with minimal setup, making it easy to protect sensitive information during transit.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NayakPenguin/easy-api-encryptor.git"
+  },
+  "keywords": [
+    "api-encryptor"
+  ],
+  "author": "NayakPenguin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NayakPenguin/easy-api-encryptor/issues"
+  },
+  "homepage": "https://github.com/NayakPenguin/easy-api-encryptor#readme"
+}
