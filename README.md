@@ -42,7 +42,8 @@ You can actively contribute by addressing existing issues or creating new ones. 
 <br/>
 
 ## How to Run and Test the Code 👨‍💻👷🏻‍♂️
-- Use the test forlder and link the package. (...this needs an update)
+- 
+- Make the changes on the index.js and then link the package. Now use the test folder, to run the package. 
 
 
 <br/>
